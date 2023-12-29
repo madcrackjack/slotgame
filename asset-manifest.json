@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/slotgame/static/css/main.6893c05e.css",
+    "main.js": "/slotgame/static/js/main.cf815f32.js",
+    "static/js/787.e46cfafb.chunk.js": "/slotgame/static/js/787.e46cfafb.chunk.js",
+    "index.html": "/slotgame/index.html",
+    "static/media/snow.svg": "/slotgame/static/media/snow.de5d76d108a3b7b6297a3840e9fbc790.svg",
+    "main.6893c05e.css.map": "/slotgame/static/css/main.6893c05e.css.map",
+    "main.cf815f32.js.map": "/slotgame/static/js/main.cf815f32.js.map",
+    "787.e46cfafb.chunk.js.map": "/slotgame/static/js/787.e46cfafb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6893c05e.css",
+    "static/js/main.cf815f32.js"
+  ]
+}

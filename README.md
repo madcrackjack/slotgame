@@ -1,6 +1,29 @@
-# Getting Started with Create React App
+# Demo Slot Game using Rect-PIXI
+
+## Introduction
+This is demonstration game based on the React-PIXI, PIXI Particles Emitter and GSAP.
+For development used TypeScript and React Class Components.
+UI/UX design created using Figma and illustration created in Procreate.
+
+You can run this game from GitHub Pages by the link below:
+[https://madcrackjack.github.io/slotgame/](https://madcrackjack.github.io/slotgame/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## UI/UX Design
+![load-screen](https://github.com/madcrackjack/slotgame/assets/29599507/814ba18a-9435-43d6-abba-0233768014cb)
+![game-screen](https://github.com/madcrackjack/slotgame/assets/29599507/d423abc8-9ea1-4ff7-9f63-7caf9a9dbf85)
+![info-screen](https://github.com/madcrackjack/slotgame/assets/29599507/868c8c2c-05f6-4c6f-839c-a2e0120ba39a)
+![splash-screen](https://github.com/madcrackjack/slotgame/assets/29599507/ea2f5acc-0157-4810-94e3-a7abbe0d31c7)
+
+## Illustration Process
+[item0.webm](https://github.com/madcrackjack/slotgame/assets/29599507/1e5cfd0d-d514-4059-8eeb-4fe5925b6348)
+[item1.webm](https://github.com/madcrackjack/slotgame/assets/29599507/73ac5c32-6467-4118-b8c3-6e4c6711a92e)
+[item2.webm](https://github.com/madcrackjack/slotgame/assets/29599507/4abb7f8d-f816-4e4a-b5fb-82bf632a8989)
+[item3.webm](https://github.com/madcrackjack/slotgame/assets/29599507/1e6adef9-651f-40bb-bfd5-cf01a2519265)
+[item4.webm](https://github.com/madcrackjack/slotgame/assets/29599507/c28627ac-ce60-441f-b547-345745231ef4)
+[item5.webm](https://github.com/madcrackjack/slotgame/assets/29599507/16fc6dc3-6d75-462a-a7ee-ecefcaa3ded1)
+
 
 ## Available Scripts
 
